@@ -1,0 +1,6 @@
+node_modules/
+*.log
+coverage/
+node-debug.log*
+.idea
+dist
